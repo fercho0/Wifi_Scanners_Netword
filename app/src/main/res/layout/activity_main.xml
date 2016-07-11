@@ -11,12 +11,12 @@
 
     <LinearLayout android:orientation="vertical" android:id="@+id/linearLayout1" android:layout_height="fill_parent" android:layout_width="fill_parent" android:gravity="center">
 
-        <TextView android:id="@+id/textView1" android:textAppearance="?android:attr/textAppearanceLarge" android:text="Escanea Wifi" android:layout_height="wrap_content" android:layout_width="wrap_content"
+        <TextView android:id="@+id/textView1" android:textAppearance="?android:attr/textAppearanceLarge" android:text="Escanear Wifi" android:layout_height="wrap_content" android:layout_width="wrap_content"
             android:layout_gravity="center_horizontal"
             android:textColor="#FF5C42"
             ></TextView>
 
-        <Button android:layout_height="wrap_content" android:id="@+id/button1" android:text="" android:layout_width="wrap_content" android:background="@drawable/wifiicon"
+        <Button android:layout_height="wrap_content" android:id="@+id/button1" android:text="" android:layout_width="wrap_content" android:background="@drawable/wifii"
             android:layout_gravity="center_horizontal"></Button>
 
     </LinearLayout>
